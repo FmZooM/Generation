@@ -1,5 +1,5 @@
 # Generation
-
+Build: https://github.com/FmZooM/Generation/releases/tag/1.0.0
 > **An Experimental Game**
 
 <img width="1024" height="1024" alt="Icon" src="https://github.com/user-attachments/assets/ea903c1f-59e0-477f-afe3-944e1b527181" />
