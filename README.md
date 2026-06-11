@@ -9,4 +9,4 @@ This game was created while I was learning C# in Unity. It is quite simple and w
 <img width="347" height="195" alt="6qm1J5" src="https://github.com/user-attachments/assets/508fc996-13e6-4d3e-9405-fc5a800146ad" />
 
 ### Project Status
-This game will no longer receive updates. I consider this experiment successfully concluded and have already moved on to work on another, much more serious world generation project.
+This game will no longer receive updates. I consider this experiment successfully concluded and am leaving the repository here as an open archive of my early C# studies.
